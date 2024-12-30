@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tikusemas.github.io/sitemap.xml
